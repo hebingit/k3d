@@ -1,0 +1,22 @@
+{
+  "name": "k3D",
+  "version": "1.0.0",
+  "main": "k3d-min.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "homepage": "https://github.com/gaochenyang/k3D.git",
+  "description": "MathLib",
+  "keywords": [
+    "test"
+  ],
+  "authors": [
+    "wg"
+  ],
+  "private": true
+}
